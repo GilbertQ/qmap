@@ -19,7 +19,7 @@ const Map = () => {
   return (
     <Paper elevation={3} style={{ padding: '16px', margin: '16px' }}>
       <Typography variant="h5" gutterBottom>
-        Map of THE City
+        Map of The City
       </Typography>
       <MapContainer
         center={cityCoordinates}
